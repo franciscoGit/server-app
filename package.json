@@ -1,0 +1,23 @@
+{
+  "name": "server-app",
+  "version": "0.0.1",
+  "description": "Simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoGit/server-app.git"
+  },
+  "author": "Francisco Maldonado Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoGit/server-app/issues"
+  },
+  "homepage": "https://github.com/franciscoGit/server-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+  }
+}
